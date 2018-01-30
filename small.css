@@ -1,0 +1,11 @@
+@media screen and (max-width: 1015px) {
+                           .orange-box {
+                                        width: 33%;}
+                           .grey-box {
+                                        width: 33%;}
+                           .brown-box {
+                                           width: 33%;}
+                                                       }
+
+img {
+     max-width: 100%;}
