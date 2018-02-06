@@ -1,0 +1,1 @@
+Seems fairly straightforward this week. My only issue this week is: I have got to do something about Atom. It literally takes a minute just to select and area and half the time the program stops working. I decided to do most of this week in notepad. I don't know if I messed it up when I installed it, or if this program is just the pits.
