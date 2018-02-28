@@ -1,0 +1,3 @@
+# HW-5 Readme for Valerie Rinder
+
+Another extremely difficult and unbelievably stressful week. I'm literally having nightmares about coding. You know those type where you're trying to figure out problems, but it's a dream so none of it really makes sense anyway? You wake up feeling like you didn't sleep at all. I used numerous outside resources just to clarify the content of both the course material and even the homework assignment itself. I still suspect this couldn't possibly be a real class and it's some kind of cruel experiment for the psychology dept. I'm feeling the effects in nearly all aspects of my life from how tired I am at my day job cleaning houses, to my neglected other classes, and right down into my restless sleep now.
