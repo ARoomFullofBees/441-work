@@ -1,0 +1,3 @@
+# HW-6 Readme for Valerie Rinder
+
+It was a much easier week than the past few have been; it felt a lot more like a continuation of the Web Design class I took rather than the Coding classes I didn't take. I felt a lot more comfortable and this use of javascript has made it a more appealing skill to have in my toolkit. I'm actually kind of looking forward to figuring out how to make complex websites using javascript.
