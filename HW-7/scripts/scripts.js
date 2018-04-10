@@ -63,7 +63,7 @@ function showHideText() {
     btEl2.hidden = true;
     el.hidden = true;
 
-    body.style.background = "url('./images/Fruit.jpg')";
+    body.style.background = "url('./images/Fairies.jpg')";
     alert("Fairies have stolen your soul!");
 
   } else {
@@ -79,7 +79,7 @@ function showHideText() {
 
     body.style.background = "url('./images/Fruit.jpg')";
     body.style.backgroundPosition = "center";
-    body.style.background = "url('./images/Fairies.jpg')";
+
   }
 }
 
@@ -136,7 +136,7 @@ function showHideText3() {
     el.hidden = true;
 
 
-    body.style.background = "url('./images/N.jpg')";
+    body.style.background = "url('./images/Nymphs.jpg')";
     alert("You were drowned by nymphs!");
 
 
@@ -153,7 +153,7 @@ function showHideText3() {
     btEl4.hidden = true;
     el.hidden = true;
 
-    body.style.background = "url('./images/Siren.jpg')";
+    body.style.background = "url('./images/Ring.jpg')";
   }
 }
 
@@ -172,7 +172,7 @@ function showHideText4() {
     btEl3.hidden = true;
     el.hidden = true;
 
-    body.style.background = "url('./images/Fairies.jpg')";
+    body.style.background = "url('./images/Siren.jpg')";
     alert("A siren stole your breath!");
 
 
@@ -190,7 +190,7 @@ function showHideText4() {
     btEl3.hidden = true;
     el.hidden = true;
 
-    body.style.background = "url('./images/fruit.jpg')";
+    body.style.background = "url('./images/Fruit.jpg')";
     body.style.backgroundPosition = "center";
   }
 }
@@ -199,5 +199,5 @@ function showHideText4() {
 
 body.style.padding = "0 em";
 body.style.margin = "0 em";
-body.style.background = "url('./images/fruit.jpg')";
+body.style.background = "url('./images/Fruit.jpg')";
 body.style.backgroundPosition = "center";
