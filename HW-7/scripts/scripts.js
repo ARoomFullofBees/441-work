@@ -77,7 +77,7 @@ function showHideText() {
     btEl2.hidden = false;
     el.hidden = false;
 
-    body.style.background = "url('./images/Fruit.jpg')";
+    body.style.background = "url('./images/Pond.jpg')";
     body.style.backgroundPosition = "center";
 
   }
@@ -100,7 +100,7 @@ function showHideText2() {
     btEl.hidden = true;
     el.hidden = true;
 
-    body.style.background = "url('images/Fruit.jpg')";
+    body.style.background = "url('images/Forest.jpg')";
 
   } else {
     btEl2.innerText = "I just ate";
@@ -113,7 +113,7 @@ function showHideText2() {
     textEl3.hidden = false;
     btEl.hidden = true;
     el.hidden = true;
-    body.style.background = "url('./images/Fruit.jpg')";
+    body.style.background = "url('./images/Pond.jpg')";
     body.style.backgroundPosition = "center";
   }
 }
