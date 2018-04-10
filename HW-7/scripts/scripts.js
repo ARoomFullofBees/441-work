@@ -77,7 +77,7 @@ function showHideText() {
     btEl2.hidden = false;
     el.hidden = false;
 
-    body.style.background = "url('./images/Pond.jpg')";
+    body.style.background = "url('./images/Fruit.jpg')";
     body.style.backgroundPosition = "center";
 
   }
@@ -113,7 +113,7 @@ function showHideText2() {
     textEl3.hidden = false;
     btEl.hidden = true;
     el.hidden = true;
-    body.style.background = "url('./images/Pond.jpg')";
+    body.style.background = "url('./images/Fruit.jpg')";
     body.style.backgroundPosition = "center";
   }
 }
@@ -177,7 +177,7 @@ function showHideText4() {
 
 
   } else {
-    btEl4.innerText = "Sleep in a fairy ring";
+    btEl4.innerText = "Skip over fairy ring";
 
     btEl2.hidden = true;
     btEl4.hidden = true;
