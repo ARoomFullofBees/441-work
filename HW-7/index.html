@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Enchanted Descent">
+    <meta name="author" content="Val Rinder">
+    <meta name="viewport" content="width=device-width, initial-scale-1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Enchanted Descent</title>
+  </head>
+
+  <body>
+    <!--Storage Div-->
+    <div class="storageDiv" id="storageDiv">
+      <h1>
+        Enchanted Descent</h1>
+      </h1>
+    </div>
+
+    <!--Form-->
+    <form class="nameForm" action="#" method="post">
+      <input type="text" name="textInput" placeholder="Who goes there?" id="textIn1">
+      <button type="button" name="button" id="runButton" onclick="this.disabled = true;">Enter</button>
+    </form>
+
+
+    <!--Buttons-->
+    <div class="d1">
+      <br>
+      <button id="B1">Partake of the fruit</button>
+    </div>
+
+    <div class="d2">
+      <br>
+      <button id="B2">I just ate</button>
+    </div>
+
+    <div class="d3">
+      <br>
+      <button id="B3" hidden="true">Swim in the pond</button>
+    </div>
+
+    <div class="d4">
+      <br>
+      <button id="B4" hidden="true">Take to the sea</button>
+    </div>
+
+    <!--Content-->
+    <div class="welcome">
+
+      <p> </p>
+    </div>
+
+    <div class="sirendeath" hidden="true">
+      <h1>A siren has stolen your breath!</h1>
+      <p> The sea is a cruel mistress.</p>
+    </div>
+
+    <div class="wheretoswim" hidden="true">
+      <h1> Very Well then.</h1>
+      <p> Would you like to go for a swim in the lily pond?<br>
+      </p>
+    </div>
+
+    <div class="fairydeath" hidden="true">
+      <h1> Fairies have stolen your soul!</h1>
+      <p> You should know better than to eat the fruits of the underworld.
+      </p>
+    </div>
+
+    <div class="nymphdeath" hidden="true">
+      <h1> You've been drowned by nymphs!</h1>
+      <p> It's gross to swim in ponds, anyway. If the nymphs hadn't you, the kelpies would have. </p>
+    </div>
+
+
+    <!--JS-->
+    <script src="./scripts/scripts.js"></script>
+  </body>
+
+</html>

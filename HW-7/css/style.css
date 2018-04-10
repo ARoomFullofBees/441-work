@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+  {
+  font-family: 'Berkshire Swash', cursive;
+}
+
+h1 {
+  font-family: "Berkshire Swash", cursive;
+  line-height: 1.5 em;
+  font-weight: 100;
+  margin-bottom: 1em;
+  text-align: center;
+  color: white letter-spacing: 0.2em
+}
+
+#textIn1 {
+  font-size: 15px;
+  color: black;
+  font-weight: 200;
+  background-color: white;
+  border-color: #335b32;
+  border-width: 3px;
+  font-family: "Berkshire Swash", cursive;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  top: 1em;
+  padding: 1em;
+  width: 10em;
+  text-align: center;
+}
+
+#runButton {
+  font-size: 15px;
+  font-weight: 200;
+  background-color: #335b32;
+  color: white;
+  border-color: #335b32;
+  border-width: 3px;
+  font-family: "Berkshire Swash", cursive;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  top: 1em;
+  padding: 1em;
+  width: 6em;
+  text-align: center;
+}
+
+#runButton:hover {
+  background-color: #527c51;
+  color: white;
+}
+
+#B1 {
+  font-size: 15px;
+  color: white;
+  font-weight: 200;
+  background-color: #335b32;
+  border-color: #335b32;
+  border-width: 3px;
+  font-family: "Berkshire Swash", cursive;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  top: 1em;
+  padding: 1em;
+  width: 8em;
+  text-align: center;
+}
+
+#B1:hover {
+  background-color: #527c51;
+  color: white;
+}
+
+#B2 {
+  font-size: 15px;
+  color: white;
+  font-weight: 200;
+  background-color: #335b32;
+  border-color: #335b32;
+  border-width: 3px;
+  font-family: "Berkshire Swash", cursive;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  top: 1em;
+  padding: 1em;
+  width: 8em;
+  text-align: center;
+}
+
+#B2:hover {
+  background-color: #527c51;
+  color: white;
+}
+
+#B3 {
+  font-size: 15px;
+  color: white;
+  font-weight: 200;
+  background-color: #335b32;
+  border-color: #335b32;
+  border-width: 3px;
+  font-family: "Berkshire Swash", cursive;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  top: 1em;
+  padding: 1em;
+  width: 8em;
+  text-align: center;
+}
+
+#B3:hover {
+  background-color: #527c51;
+  color: white;
+}
+
+#B4 {
+  font-size: 15px;
+  color: white;
+  font-weight: 200;
+  background-color: #335b32;
+  border-color: #335b32;
+  border-width: 3px;
+  font-family: "Berkshire Swash", cursive;
+  border-style: solid;
+  position: relative;
+  margin: auto;
+  top: 1em;
+  padding: 1em;
+  width: 8em;
+  text-align: center;
+}
+
+#B4:hover {
+  background-color: #527c51;
+  color: white;
+}
+
+.nameForm {
+  position: relative;
+  margin: auto;
+  top: 1em;
+  padding: 2em;
+  text-align: center;
+}
+
+.storageDiv {
+  padding: 1em;
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  color: white;
+  line-height: 1.5em;
+}
+
+.welcome {
+  padding: 1em;
+  font-size: 20px;
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  color: white;
+  line-height: 1.5em;
+}
+
+.sirendeath {
+  padding: 1em;
+  font-size: 20px;
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  color: White;
+  line-height: 1.5em;
+}
+
+.wheretoswim {
+  padding: 1em;
+  font-size: 20px;
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  color: white;
+  line-height: 1.5em;
+}
+
+.nymphdeath {
+  padding: 1em;
+  font-size: 20px;
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  color: white;
+  line-height: 1.5em;
+}
+
+.fairydeath {
+  padding: 1em;
+  font-size: 20px;
+  font-family: "Berkshire Swash", cursive;
+  text-align: center;
+  color: white;
+  line-height: 1.5em;
+}
+
+.d1 {
+  text-align: center;
+  margin: auto;
+}
+
+.d2 {
+  text-align: center;
+  margin: auto;
+}
+
+.d3 {
+  text-align: center;
+  margin: auto;
+}
+
+.d4 {
+  text-align: center;
+  margin: auto;
+}
