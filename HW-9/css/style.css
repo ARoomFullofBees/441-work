@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css?family=Domine');
+
+  {
+  font-family: 'Domine', serif;
+}
+
+h1 {
+  font-family: 'Domine', serif;
+  line-height: 1.5 em;
+  font-weight: 100;
+  margin-bottom: 1em;
+  text-align: center;
+  color: white;
+  letter-spacing: 0.2em;
+}
+
+
+p {
+
+  font-family: 'Domine', serif;
+  line-height: 1.5 em;
+  font-weight: 100;
+  margin-bottom: 1em;
+  color: white;
+  padding: 8px;
+  text-align: center;
+}
+
+Button {
+  font-size: 15px;
+  color: white;
+  font-weight: 200;
+  background-color: #27467B;
+  border-color: white;
+  border-width: 3px;
+  font-family: 'Domine', serif;
+  border-style: solid;
+  position: relative;
+  text-align: center;
+  margin: auto;
+  top: .3em;
+  padding: .3em;
+  width: 6em;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+  margin: auto;
+
+}
+
+img {
+  text-align: center;
+  margin: auto;
+
+}
+body {
+  background: url(../images/sky1.jpg);
+}
