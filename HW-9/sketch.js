@@ -1,7 +1,7 @@
 
 /*variables*/
 var weather
-var api = 'http://api.openweathermap.org/data/2.5/weather?q=';
+var api = 'https://api.openweathermap.org/data/2.5/weather?q=';
 var apiKey = '&APPID=e0bcdc8cb9c45d251e57c9725cb248a1';
 var units = '&units=metric';
 var input;
